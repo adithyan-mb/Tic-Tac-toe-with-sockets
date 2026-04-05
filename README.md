@@ -3,9 +3,13 @@ A two-player Tic Tac Toe game played over a network using Python sockets. Built 
 
 Features
 Two players can play over a local network
+
 Real time move updates using TCP sockets
+
 Win detection for both players
+
 Draw detection when all 9 cells are filled
+
 Input validation — prevents overwriting occupied cells
 
 
