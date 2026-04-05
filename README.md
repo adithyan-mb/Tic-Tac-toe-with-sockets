@@ -1,3 +1,5 @@
+( NOTE: code in active improvement )
+
 A two-player Tic Tac Toe game played over a network using Python sockets. Built with core Python and no external libraries.
 
 
